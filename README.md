@@ -9,3 +9,5 @@ Steps:
 4. npm start
 
 Launch http://localhost/parent.html in Firefox or IE
+
+Note: Buy default the server uses port 80. Mare sure the port is free before you npm start
