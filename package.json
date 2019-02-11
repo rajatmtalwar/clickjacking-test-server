@@ -1,0 +1,23 @@
+{
+  "name": "clickjacking-test-server",
+  "version": "1.0.0",
+  "description": "server to test clickjacking protection headers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajatmtalwar/clickjacking-test-server.git"
+  },
+  "author": "Rajat Talwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajatmtalwar/clickjacking-test-server/issues"
+  },
+  "homepage": "https://github.com/rajatmtalwar/clickjacking-test-server#readme",
+  "dependencies": {
+    "http-proxy": "1.17.0"
+  }
+}
